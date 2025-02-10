@@ -1,5 +1,4 @@
 ## Table of Contents
-## Table of Contents
 * [Papers](#papers)
     * [Overview, State-of-art](#overview-state-of-art)
     * [Techniques](#techniques)
